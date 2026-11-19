@@ -1,0 +1,5 @@
+Este arquivo sera gerado apos a execucao de:
+
+python src/modelo_eficiencia.py
+
+Ele contera acuracia, relatorio de classificacao, matriz de confusao e comparacao entre regras e modelo.

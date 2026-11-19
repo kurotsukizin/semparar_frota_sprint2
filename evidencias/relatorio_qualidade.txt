@@ -1,0 +1,5 @@
+Este arquivo sera gerado apos a execucao de:
+
+python src/verificacao_qualidade.py
+
+Ele contera inconsistencias de valores nulos, duplicidades, valores negativos e veiculos sem cadastro.

@@ -1,0 +1,32 @@
+ESTRUTURA DO PDF / DOCUMENTACAO
+
+1. Introducao
+- Problema dos custos dispersos na frota
+- Objetivo da Sprint 2
+- Publico beneficiado: gestor de frota
+
+2. Desenvolvimento
+- Fontes de dados simuladas
+- Ingestao e normalizacao
+- Verificacoes de qualidade
+- Indicadores e benchmark
+- Gap de eficiencia
+- Diagnostico por regras
+- Modelo supervisionado introdutorio
+
+3. Resultados
+- Custo total da frota
+- Custo por km por veiculo
+- Consumo em km/l
+- Ranking de gaps
+- Anomalias de telemetria
+- Resultado do modelo
+
+4. Conclusoes
+- Principais ineficiencias identificadas
+- Limitacoes da POC
+- Evolucao prevista para Sprint 3
+
+5. Links
+- Repositorio privado compartilhado com fiap-tutoria
+- Video nao listado no YouTube
